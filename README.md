@@ -1,5 +1,7 @@
 # OList Exploratory data analysis
 
+To view the queries, please click on 'sql_queries.ipynb'
+
 Hey! First of all, thanks for taking the time to look at this github repo of my SQL queries. My intention here is to just show some of my abilities with github, SQL, and python. 
 
 This repo is currently incomplete as there are a few more things I would like to complete, such as:
